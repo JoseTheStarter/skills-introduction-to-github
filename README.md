@@ -1,2 +1,1 @@
-# skills-introduction-to-github
-Exercise: Introduction to GitHub
+#Website for my Hardware project
